@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vikash Sharma
 
 - 🔭 **I’m currently working on:** Nothing
-- 🌱 **I’m currently learning:** Reading JavaScript
+- 🌱 **I’m currently learning:** Reading Vue
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
